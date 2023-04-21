@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Keeb")(type "Legacy")(uri "/Volumes/Projects/Vendor/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "lib_tmk")(type "Legacy")(uri "/Volumes/Projects/Vendor/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
+)
